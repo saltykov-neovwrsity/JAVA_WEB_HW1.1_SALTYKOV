@@ -22,7 +22,6 @@ Time Servlet Web Application
 
 1. Клонування репозиторію
    git clone https://github.com/saltykov-neovwrsity/JAVA_WEB_HW1.1_SALTYKOV.git
-   cd time-app
 2. Збірка проєкту
    mvn clean package
 
