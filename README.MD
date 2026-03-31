@@ -78,10 +78,10 @@ startup.bat
 
 ###Структура проєкту
 
-src/main/java/org/example/
-├── TimeServlet.java
-├── TimezoneValidateFilter.java
-└── TimezoneUtil.java
+    src/main/java/org/example/
+    ├── TimeServlet.java
+    ├── TimezoneValidateFilter.java
+    └── TimezoneUtil.java
 
 Логіка роботи
 1. TimeServlet — обробляє HTTP-запити та повертає HTML
